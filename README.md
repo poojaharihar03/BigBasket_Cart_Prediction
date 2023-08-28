@@ -8,3 +8,8 @@ In the era of data-driven decision-making, understanding the relationships and p
 ```bash
  git clone https://github.com/poojaharihar03/BigBasket_Cart_Prediction
 ```
+
+![image](https://github.com/poojaharihar03/BigBasket_Cart_Prediction/assets/88924201/3bcca5de-d73e-48ea-8209-087b7fd76c0f)
+<img width="405" alt="image" src="https://github.com/poojaharihar03/BigBasket_Cart_Prediction/assets/88924201/bd3bd04d-b0eb-482f-a4c2-a3b8411bab5d">
+![image](https://github.com/poojaharihar03/BigBasket_Cart_Prediction/assets/88924201/41a6cbd8-6787-4f90-9c85-e78b768b96f6)
+
